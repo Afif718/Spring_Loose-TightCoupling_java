@@ -1,4 +1,4 @@
-package Spring_Practice.Practice.Spring1.loose_coupling.usingSpring;
+package Spring_Practice.Practice.Spring1.loose_coupling_usingSpring;
 
 public interface PersonInterface {
 	

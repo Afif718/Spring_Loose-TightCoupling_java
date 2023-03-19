@@ -1,4 +1,4 @@
-package Spring_Practice.Practice.Spring1.loose_coupling.usingSpring;
+package Spring_Practice.Practice.Spring1.loose_coupling_usingSpring;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
